@@ -26,7 +26,10 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Booki"
-              description="Dans ce projet, j'ai créé la page d'accueil responsive d'une agence de voyage en codant moi-même en HTML et CSS à partir de maquettes Figma pour mobile, tablette et desktop. Cela m'a permis de renforcer mes compétences en intégration web, en design responsive, en utilisation de Git, et en mise en place d’un environnement de développement front-end. #HTML #CSS #Git #ResponsiveDesign"
+              description="Dans ce projet, j’ai développé la page d’accueil responsive d’une agence de voyage à partir de maquettes Figma pour mobile, tablette et desktop. L’intégration a été réalisée manuellement en HTML et CSS, sans framework, afin de garantir une compréhension fine du design responsive.
+Ce projet m’a permis de renforcer mes compétences en intégration web, en responsive design, en utilisation de Git, ainsi qu’en mise en place d’un environnement de développement front-end structuré et organisé.
+Compétences clés : HTML, CSS, Responsive Design, Git, Intégration à partir de maquettes Figma
+#HTML #CSS #Git #ResponsiveDesign"
               ghLink="https://github.com/IsmailDerkaoui/booki"
             />
           </Col>
@@ -36,8 +39,10 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Sophie Bluel"
-              description="Dans ce projet, j'ai développé une page web dynamique pour une architecte d’intérieur en utilisant JavaScript, en manipulant le DOM et en communiquant avec une API à partir d’un code back-end. J'ai également créé une page de connexion, une modale d’upload de médias, et renforcé mes compétences en JavaScript, en gestion des événements et en intégration d’API, ce qui m’a permis d’évoluer vers un profil de développeur Front-End complet.
-              Les difficultés rencontrer pour ce projet ont été la prise en main de l'API, la gestion des médias et la création de la modale d'upload. #HTML #CSS #JavaScript #API #FrontEnd"
+              description="Dans ce projet, j’ai développé une interface dynamique en JavaScript pour présenter les réalisations d’une architecte d’intérieur. Le projet comprenait la manipulation du DOM, la communication avec une API back-end, la création d’une page de connexion sécurisée, ainsi qu’une modale d’upload de médias.
+Ce projet m’a permis de consolider mes compétences en JavaScript, en gestion des événements, et en intégration d’API. La prise en main de l’API, la gestion des médias et le développement d’une modale entièrement fonctionnelle ont été des étapes techniques clés, qui m’ont permis d’évoluer vers un profil de développeur Front-End plus complet et autonome.
+Compétences clés : JavaScript, API REST, DOM, Modale, Authentification, Upload médias, HTML, CSS
+#HTML #CSS #JavaScript #API #FrontEnd"
               ghLink="https://github.com/IsmailDerkaoui/site-Sophie-Bluel"
             />
           </Col>
@@ -47,8 +52,10 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Nina Carducci"
-              description="Dans ce projet, j'ai travaillé pour optimiser le référencement, la performance et l’accessibilité d’un site web en identifiant les problèmes via des outils comme Lighthouse et Wave, puis en appliquant des modifications ciblées sur le code. J’ai également rédigé un rapport comparatif avant/après, ce qui m’a permis de renforcer mes compétences en SEO technique, en débogage et en amélioration de l’expérience utilisateur.
-              Les difficultés rencontrer pour ce projet ont été la compréhension des outils de mesure de performance et d'accessibilité, ainsi que l'implémentation des recommandations. #SEO #Performance #Accessibilité #WebDevelopment"
+              description="Dans ce projet, j’ai analysé un site web à l’aide d’outils tels que Lighthouse et Wave pour identifier les axes d’amélioration en termes de référencement, de performance et d’accessibilité. J’ai ensuite appliqué des optimisations ciblées sur le code et mesuré les résultats à travers un rapport comparatif avant/après.
+Cette expérience m’a permis de renforcer mes compétences en SEO technique, en amélioration de l’expérience utilisateur, et en débogage orienté performance. L’analyse et l’implémentation des recommandations issues des outils d’audit m’ont permis de mieux comprendre leur fonctionnement et d’adopter une approche plus rigoureuse pour optimiser un site de manière concrète et mesurable.
+Compétences clés : SEO technique, Audit Lighthouse, Accessibilité Web, Optimisation de performance, Expérience utilisateur
+#SEO #Performance #Accessibilité #WebDevelopment"
               ghLink="https://github.com/IsmailDerkaoui/Nina-Carducci-Dev-master"
             />
           </Col>
@@ -58,8 +65,10 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Kasa"
-              description="Dans ce projet, j'ai implémenté le front-end d’une application en utilisant React et React Router pour créer une interface moderne, réactive et conforme aux maquettes fournies, en m'appuyant sur des données simulées issues d’un fichier JSON. Cela m’a permis de renforcer mes compétences en développement d’interfaces avec des composants React, en gestion de navigation, ainsi qu’en stylisation avancée avec Sass et animations CSS.
-              Les difficultés rencontrer pour ce projet ont été la gestion de l'état des composants et la mise en place de la navigation. #React #ReactRouter #Sass #CSSAnimations"
+              description="Dans ce projet, j’ai développé l’interface utilisateur d’une application en utilisant React et React Router, en respectant les maquettes fournies pour créer une interface moderne et responsive. L’application s’appuie sur des données simulées à partir d’un fichier JSON, ce qui m’a permis de structurer l’affichage à l’aide de composants dynamiques et réutilisables.
+Ce projet m’a permis de renforcer mes compétences en développement d’interfaces React, en gestion de la navigation, ainsi qu’en stylisation avancée avec Sass et des animations CSS. La gestion fine de l’état des composants et l’organisation de la navigation m’ont apporté une meilleure maîtrise du cycle de vie et des outils de routage dans un contexte React.
+Compétences clés : React, React Router, Sass, CSS Animations, Composants dynamiques, Navigation SPA
+#React #ReactRouter #Sass #CSSAnimations"
               ghLink="https://github.com/IsmailDerkaoui/projet-react"
             />
           </Col>
@@ -69,10 +78,10 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Mon vieux Grimoire"
-              description="Dans ce projet, j'ai développé le back-end d’un site de notation de livres en créant un serveur avec Express, connecté à une base de données MongoDB, tout en respectant l’architecture MVC et les bonnes pratiques de sécurité. J’y ai implémenté des opérations CRUD, un système d’authentification sécurisé, la gestion des images, ainsi que le calcul des notes moyennes, renforçant ainsi mes compétences en développement d’API RESTful et en gestion de données.
-              La gestion des fichiers images a été complexe, notamment pour configurer correctement le middleware multer, assurer le stockage sécurisé des fichiers.
-              La sécurisation de l’authentification m’a demandé de bien maîtriser l’usage de bcrypt pour le hachage des mots de passe et de JWT pour la protection des routes via des middlewares adaptés.
-              #NodeJS #APIRestful #Securité #MongoDB #Express"
+              description="Dans ce projet, j’ai conçu une API RESTful avec Node.js, Express et MongoDB, en suivant l’architecture MVC et les bonnes pratiques de sécurité. J’ai implémenté les opérations CRUD, un système d’authentification sécurisé, la gestion des images via Multer, et le calcul des notes moyennes.
+Ce projet m’a permis de consolider mes compétences en développement back-end, en gestion de données, ainsi qu’en sécurisation des routes grâce à JWT et bcrypt. La configuration fine des middlewares et la gestion sécurisée des fichiers ont été des points clés qui m’ont permis de progresser sur des aspects techniques avancés.
+Compétences clés : Node.js, Express, MongoDB, API REST, Authentification, Sécurité, Middleware, MVC
+#NodeJS #Express #MongoDB #Sécurité #APIRestful"
               ghLink="https://github.com/IsmailDerkaoui/D-veloppez-le-back-end-d-un-site-de-notation-de-livres"
             />
           </Col>
@@ -82,8 +91,10 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Qwenta"
-              description="Dans ce projet, j’ai planifié le développement d’un site web en rédigeant les spécifications techniques à partir des besoins fonctionnels et des User Stories, sans intervenir dans le code. J’ai mené une veille technologique, organisé le projet avec un tableau Kanban sur Notion, et présenté une solution technique structurée, ce qui m’a permis de renforcer mes compétences en gestion de projet, en analyse fonctionnelle et en communication technique.
-              Les difficultés rencontrer pour ce projet ont été la compréhension des besoins fonctionnels et la rédaction des spécifications techniques. #GestionDeProjet #AnalyseFonctionnelle #CommunicationTechnique"
+              description="Dans le cadre de ce projet, j’ai piloté la planification du développement d’un site web en traduisant les besoins fonctionnels et les User Stories en spécifications techniques, sans intervenir sur la partie code. J’ai structuré l’organisation du projet à l’aide d’un tableau Kanban sur Notion, mené une veille technologique, et présenté une solution technique claire et argumentée.
+Ce projet m’a permis de renforcer mes compétences en gestion de projet, en analyse fonctionnelle, ainsi qu’en communication technique. La compréhension fine des besoins et la rédaction des spécifications ont été des leviers importants pour approfondir mes connaissances sur la phase de conception d’un produit digital.
+Compétences clés : Gestion de projet, Analyse fonctionnelle, Rédaction technique, Organisation agile, Veille technologique
+#GestionDeProjet #AnalyseFonctionnelle #CommunicationTechnique"
             />
           </Col>
         </Row>
